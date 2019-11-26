@@ -6,4 +6,6 @@ function sum(a, b) {
   return a + b;
 }
 
+// comment for commit
+
 module.exports = sum;
